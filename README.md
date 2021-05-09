@@ -1,4 +1,4 @@
-# JSONStorage - Query by Example
+# JSONStorageMechanism - Query by Example
 
 This application is an implementation of a basic storage mechanism in JSON format. 
 This  program query by exanple allows a client to specify a structure which is used as an example,
